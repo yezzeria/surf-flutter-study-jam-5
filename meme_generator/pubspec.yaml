@@ -12,6 +12,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_fonts: ^6.1.0
+  carousel_slider: ^4.2.1
+  auto_size_text: ^3.0.0
+  image_picker: ^1.0.7
+  share_plus: ^7.2.2
+  permission_handler: ^11.3.0
+  path_provider: ^2.1.2
 
   cupertino_icons: ^1.0.2
 
