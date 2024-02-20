@@ -1,3 +1,4 @@
+##### Целевая платформа: Android
 # Результаты
 ## Базовый уровень ✅
 ![+](https://www.telegraph.co.uk/content/dam/music/2016/11/30/drake_trans_NvBQzQNjv4BqZPnXlBHEdt8AtjizIYNgmZhw_iIPZqUNP2EjAIFcGyw.jpg)
